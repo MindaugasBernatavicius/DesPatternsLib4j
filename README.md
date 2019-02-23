@@ -3,7 +3,10 @@
 ```
 Design patterns:
   Creational:
-    Singleton
+    Singleton:
+      Static
+      Lazy
+      Thread safe
     Builder
     Prototype
     Factory
